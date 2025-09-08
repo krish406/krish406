@@ -13,7 +13,7 @@ I'm a student at the **University of South Florida (USF)**, passionate about Com
 ## 📚 Projects
 
 Here are some of my favorite and recent projects:
-- [Etch-A-Sketch](https://github.com/krish406/weather-site) — Interactive Drawing Program built with HTML, CSS, and Javascript, with an emphasis on DOM manipulation.
+- [Etch-A-Sketch](https://github.com/krish406/Etch-A-Sketch) — Interactive Drawing Program built with HTML, CSS, and Javascript, with an emphasis on DOM manipulation.
 - [Weather Site](https://github.com/krish406/weather-site) — Dynamic weather app built using modern web tech.
 - [Portfolio](https://github.com/krish406/portfolio) — My personal portfolio showcasing my work and journey.
 - [CUDA Spatial Distance Histogram Project](#) — Accelerated spatial analysis using CUDA (class project).
