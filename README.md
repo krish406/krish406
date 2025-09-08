@@ -7,8 +7,11 @@ I'm a student at the **University of South Florida (USF)**, passionate about Com
 - **Web Development:**  
   HTML, CSS, JavaScript, Node.js, Express, React
 
+- **Electronics:**  
+  Arduino Uno
+
 - **Programming Languages:**  
-  C, Python, RISC-V
+  C, Python, JavaScript, RISC-V
 
 ## 📚 Projects
 
