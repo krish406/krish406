@@ -29,7 +29,6 @@ Here are some of my favorite and recent projects:
 ## 📫 Contact Me
 
 - Email: [krishs@usf.edu](mailto:krishs@usf.edu) | [krishs1079@gmail.com](mailto:krishs1079@gmail.com)
-- GitHub: [krish406](https://github.com/krish406)
 
 ---
 
