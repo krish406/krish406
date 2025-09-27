@@ -22,10 +22,6 @@ Here are some of my favorite and recent projects:
 - [CUDA Spatial Distance Histogram Project](#) — Accelerated spatial analysis using CUDA (class project).
 
 
-## 💡 Why Computer Science?
-
-> Computers are the most powerful invention humanity has ever built, and I want to learn to unlock their full potential. I'm always eager to learn new concepts and share knowledge with others. Reach out to me if you want to build something  together. 
-
 ## 📫 Contact Me
 
 - Email: [krishs@usf.edu](mailto:krishs@usf.edu) | [krishs1079@gmail.com](mailto:krishs1079@gmail.com)
