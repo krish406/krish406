@@ -1,6 +1,6 @@
 # Hi there, I'm Krish! 👋
 
-I'm a student at the **University of South Florida (USF)**, passionate about Computer Science and driven by the belief that computers are the most powerful invention we have ever built. My goal is to learn as much as I can and help others learn along the way!
+I'm a student at the **University of South Florida (USF)**
 
 ## 🚀 Skills
 
