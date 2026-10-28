@@ -5,13 +5,13 @@ I'm a student at the **University of South Florida (USF)**
 ## 🚀 Skills
 
 - **Web Development:**  
-  HTML, CSS, JavaScript, Node.js, Express, React
+  HTML, CSS, JavaScript, Node.js, Express, React, TypeScript
 
 - **Electronics:**  
   Arduino Uno
 
 - **Programming Languages:**  
-  C, Python, JavaScript, RISC-V
+  Java, Python, C, JavaScript, RISC-V, CUDA
 
 ## 📚 Projects
 
